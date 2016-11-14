@@ -1,8 +1,9 @@
 /*
  * main.c
  *
- *  Created on: Oct 15, 2016
- *      Author: sblair
+ * NOTE
+ * this program is designed to run on the atmega324p microcontroller
+ * usage with any other model may not function properly.
  */
 
 #include <avr/io.h>
